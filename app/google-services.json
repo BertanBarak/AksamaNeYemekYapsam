@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166991818296",
+    "project_id": "mobilproje-7d64c",
+    "storage_bucket": "mobilproje-7d64c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166991818296:android:84cfd85825ff93085700cd",
+        "android_client_info": {
+          "package_name": "com.example.deneme31"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaAUfoPHRgzVFWbhu0aWMdXGW02Rk9xkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

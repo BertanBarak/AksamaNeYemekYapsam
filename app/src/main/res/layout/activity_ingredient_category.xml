@@ -1,0 +1,58 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Malzemelerimiz.."
+        android:textSize="24sp"
+        android:gravity="center"
+        android:padding="16dp"/>
+
+    <Button
+        android:id="@+id/btnSebzeler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sebzeler"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnBaharatlar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Baharatlar"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnBaklagiller"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Baklagiller"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Et ve Şarküteri"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnSut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Süt Ürünleri"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnDiger"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Diğer"
+        android:layout_margin="8dp"/>
+
+</LinearLayout>
